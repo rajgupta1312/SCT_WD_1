@@ -33,7 +33,6 @@ A modern, responsive business website built with pure HTML5, CSS3, and vanilla J
 - **Font Awesome** - Professional icon library
 - **Google Fonts** - Inter font family for typography
 - **CSS Grid & Flexbox** - Modern layout techniques
-```
 
 ## 📱 Responsive Breakpoints
 

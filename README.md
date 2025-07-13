@@ -86,5 +86,7 @@ A modern, responsive business website built with pure HTML5, CSS3, and vanilla J
 - Proper heading hierarchy (H1-H6)
 - Alt text support for images
 - Clean URL structure for single-page app
+
 📝 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
